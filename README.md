@@ -1,4 +1,8 @@
 # BusRD_Grupo2
 
+Grupo #2  
+Integrantes:
+José Enrique Ogando Pérez A00167688
+ESSIEL DAVID URBAEZ AQUINO A00155327
 
-Cedula que Usaremos en el grupo #2 es 40200002000
+40200002000
